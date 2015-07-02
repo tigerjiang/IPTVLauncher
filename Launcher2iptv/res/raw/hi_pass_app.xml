@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<applications>
+	<application>
+		<package>com.lutongnet.kalaok2</package>
+	</application>
+	<application>
+		<package>com.qiyi.video</package>
+	</application>	
+	<application>
+		<package>cn.com.wasu.main</package>
+	</application>	
+	<application>
+		<package>com.arcsoft.arcplayer.sample</package>
+	</application>	
+	<application>
+		<package>com.xishinet.testnetwork</package>
+	</application>			
+	<application>
+		<package>cn.imove.tv</package>
+	</application>
+										
+</applications>

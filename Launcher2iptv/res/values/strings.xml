@@ -1,0 +1,174 @@
+<resources>
+
+    <string name="app_name">Launcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="temp_test">25~32℃</string>
+    <string name="data_test">2013年07月29日</string>
+    <string name="time_test">10:26 星期五</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>   
+    <string name="SUNDAY">星期日</string>   
+    <string name="MONDAY">星期一</string>   
+    <string name="TUESDAY">星期二</string>   
+    <string name="WEDNESDAY">星期三</string>   
+    <string name="THRUSDAY">星期四</string>   
+    <string name="FRIDAY">星期五</string>   
+    <string name="SATURDAY">星期六</string>   
+    <string name="city_test">济南</string> 
+	<string name="tip_info">业务鉴权失败,请稍候重试!</string> 
+    <string name="keyfunction_info">按"确认"键可进行播放,按"删除"键可删除记录</string> 
+    <string name="delete_success_info">此频道已从记录中删除成功</string> 
+    <string name="delete_fail_info">频道删除失败</string> 
+    
+    <string name="jinan">济南</string> 
+    <string name="qinddao">青岛</string> 
+    <string name="weifang">潍坊</string> 
+    <string name="zibo">淄博</string> 
+    <string name="dezhou">德州</string> 
+	<string name="yantai">烟台</string> 
+	<string name="binzhou">滨州</string> 
+	<string name="zaozhuang">枣庄</string> 
+	<string name="weihai">威海</string>
+	<string name="jining">济宁</string> 
+	<string name="dongying">东营</string> 
+	<string name="rizao">日照</string> 	
+	<string name="taian">泰安</string>
+	<string name="liaocheng">聊城</string>
+	<string name="linyi">临沂</string>
+	<string name="hezhe">菏泽</string>
+	<string name="laiwu">莱芜</string>	
+					
+	<string name="favorite_test1">CCTV-6</string> 
+	<string name="favorite_test2">卡拉OK</string> 
+	<string name="favorite_test3">中国最强音</string> 
+	<string name="favorite_test4">枪王之王</string> 
+	<string name="favorite_test5">百变大咖秀</string> 
+	<string name="favorite_test6">康熙来了</string> 	
+	<string name="favorite_test7">山东卫视</string> 
+	<string name="favorite_test8">小时代</string> 	
+	<string name="favorite_test9">疯狂原始人</string> 	
+	<string name="favorite_test10">断奶</string> 
+	<string name="favorite_test11">新结婚时代</string> 
+	<string name="favorite_test12">百变大咖秀</string> 
+	
+	<string name="favorite_delete_success">删除成功!</string> 
+	<string name="favorite_delete_error">删除失败!</string> 
+	
+	<string name="temp_str">℃</string> 
+	
+	<string name="app_str">应        用</string> 
+	<string name="authentication_fail">鉴权失败,请重试!</string> 
+	<string name="authenticationing">正在鉴权,请稍侯!</string> 
+	<string name="authenticationing_tryagain">正在鉴权,请稍侯重试!</string> 
+	<string name="apk_authentication_fail">APK鉴权失败!</string>
+	<string name="connect_error">服务器连接失败,请检查网络并重试！</string>
+	<string name="serviceauth_error">对不起,业务鉴权失败！</string>
+	<string name="serviceauth_wait">正在为您鉴权,请稍候...</string>
+	
+	<string name="accountid">用户名</string>
+	<string name="password">密码</string>
+    <string name="setnet">设置网络</string>  
+     <string name="no">取消</string>  
+    <string name="login_title">登录提示</string>  
+    <string name="logining"> 正在为您登录, 请稍侯...</string>  
+    <string name="pls_waiting">请等侯...</string> 
+    <string name="input_error">用户名或密码不能为空,请重新输入！</string> 
+    <string name="isbuilding">正在建设,敬请期待...</string> 
+    <string name="isdeleting">正在删除中...</string>   
+    <string name="tip">提  示</string>     
+    <string name="factorytip">此操作会清除所有数据包括已下载的应用,确认删除?</string>     
+    <string name="macerror">设备型号/MAC地址未登记</string>    
+    
+    <string name="char_a">a</string>
+    <string name="char_b">b</string>
+    <string name="char_c">c</string>
+    <string name="char_d">d</string>
+    <string name="char_e">e</string>
+    <string name="char_f">f</string>
+    
+    <string name="char_g">g</string>
+    <string name="char_h">h</string>
+    <string name="char_i">i</string>
+    <string name="char_j">j</string>
+    <string name="char_k">k</string>
+    <string name="char_l">l</string>
+    
+    <string name="char_m">m</string>
+    <string name="char_n">n</string>
+    <string name="char_o">o</string>
+    <string name="char_p">p</string>
+    <string name="char_q">q</string>
+    <string name="char_r">r</string>
+    
+    <string name="char_s">s</string>
+    <string name="char_t">t</string>
+    <string name="char_u">u</string>
+    <string name="char_7">7</string>
+    <string name="char_8">8</string>
+    <string name="char_9">9</string>
+    
+    <string name="char_v">v</string>
+    <string name="char_w">w</string>
+    <string name="char_x">x</string>
+    <string name="char_4">4</string>
+    <string name="char_5">5</string>
+    <string name="char_6">6</string>
+    
+    <string name="char_y">y</string>
+    <string name="char_z">z</string>
+    <string name="char_0">0</string>
+    <string name="char_1">1</string>
+    <string name="char_2">2</string>
+    <string name="char_3">3</string>
+    
+    <string name="but_back">删除</string>
+    <string name="but_ok">确定</string>
+    <string name="but_cancel">取消</string> 
+    
+    <!-- weather -->
+    <string name="temp_degree">℃</string> 
+    <string name="qing">晴</string>
+    <string name="duoyun">多云</string>
+    <string name="dafeng">大风</string>
+    <string name="ying">阴</string>
+    <string name="zhenyu">阵雨</string>
+    <string name="leizhenyu">雷阵雨</string>
+    <string name="binbao_leizhenyu">冰雹</string>
+    <string name="yujiaxue">雨夹雪</string>
+    <string name="xiaoyu">小雨</string>
+    <string name="zhongyu">中雨</string>
+    <string name="dayu">大雨</string>
+    <string name="dongyu">冻雨</string>
+    <string name="baoyu">暴雨</string>
+    <string name="dabaoyu">大暴雨</string>
+    <string name="te_dabaoyu">特大暴雨</string>
+    <string name="xiaoxue">小雪</string>
+    <string name="zhongxue">中雪</string>
+    <string name="daxue">大雪</string>
+    <string name="baoxue">暴雪</string>
+    <string name="shachengbao">沙尘暴</string>
+    <string name="qiang_shachengbao">强沙尘暴</string>
+    <string name="wu">雾</string>
+    <string name="fuchen">浮尘</string>
+    <string name="yangsha">扬沙</string>
+    <string name="mai">霾</string>
+    <string name="zhenxue">阵雪</string>
+    
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="string_sheng">省</string>
+    <string name="string_shi">市</string>
+    <string name="string_qu">区</string>
+    <string name="string_xian">县</string>
+    <string name="string_sha">沙</string>
+	<string name="city_config">天气城市设置</string>
+	<string name="default_city">青岛</string>
+	<string name="current_city">当前城市是:</string>
+	<string name="change_city">,请输入新的城市：</string>
+	<string name="city_weather_error">无法获取</string>
+
+</resources>

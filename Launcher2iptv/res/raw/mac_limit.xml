@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macLimit>
+	<macInfo>
+	    <productModel>IP508H</productModel>
+		<macStart>ac:4a:fe:39:fa:00</macStart>
+		<macEnd>ac:4a:fe:39:fa:0f</macEnd>
+		<macTotal>16</macTotal>
+	</macInfo>
+	
+	<macInfo>
+	    <productModel>IP808H</productModel>
+		<macStart>ac:4a:fe:40:fa:00</macStart>
+		<macEnd>ac:4a:fe:40:fa:0f</macEnd>
+		<macTotal>16</macTotal>
+	</macInfo>
+																										
+</macLimit>
